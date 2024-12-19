@@ -1,6 +1,8 @@
 # Docker Project
 
-Project for the **Dockerfiles** and **Docker Compose** sections
+This project is part of Bogdan Stashchuk's O'reilly Docker course (learn more at https://learning.oreilly.com). The objective of the course project is to dockerize a full-stack application that allows users to search for Unsplash photos and save them to a personal gallery. For that, we are using both **Dockerfiles** and **Docker Compose**.
+
+To see the original instructors' repository (including the feature for storing photos in MongoDB), follow this [link](https://github.com/bstashchuk/images-gallery).
 
 ## Initial configuration
 
